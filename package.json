@@ -1,6 +1,11 @@
 {
+<<<<<<< HEAD
   "name": "nageshpandey",
   "homepage": "https://nageshpandey.github.io/e-commerce-web-application",
+=======
+  "name": "my-e-commerce-app",
+  "homepage": "https://nageshpandey.github.io/",
+>>>>>>> 5e24b316c16d26f62adb7a507ea6d1d62b7a6907
   "version": "0.1.0",
   "private": true,
   "dependencies": {
